@@ -6,7 +6,7 @@
     "version" : "1.0.0"
   },
   "servers" : [ {
-    "url" : "http://10.200.30.121/virts/SmartBear/testAPI1/1.0.0",
+    "url" : "http://10.200.30.243/virts/SmartBear/testAPI1/1.0.0",
     "description" : "SwaggerHub API Auto Mocking"
   } ],
   "paths" : {
