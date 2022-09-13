@@ -6,7 +6,7 @@
   } ],
   "info" : {
     "version" : "1.0.0",
-    "title" : "Sample Access Code Flow OAuth2 Project",
+    "title" : "Sample Access Code Flow OAuth2 Projects",
     "description" : "This is an example of using OAuth2 Access Code Flow in a specification to describe security to your API."
   },
   "security" : [ {
